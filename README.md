@@ -9,10 +9,11 @@
 chandramoulibandaru02/chandramoulibandaru02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://leetcard.jacoblin.cool/chandramoulibandaru02?sheets=url1,url2)
+![](https://leetcard.jacoblin.cool/chandramoulibandaru02?sheets=uirl1,url2)
 
 
 
-## Kaggle Achievements  
-![Kaggle Badge](https://www.kaggle.com/static/images/site-logo.png)  
-🏆 I earned a Kaggle badge! Check it out [here](https://www.kaggle.com/certification/badges/chandramoulibandaru/30)
+### 🏆 Kaggle Achievements  
+<a href="https://www.kaggle.com/certification/badges/chandramoulibandaru/30">
+    <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle Badge" width="150">
+</a>
