@@ -10,8 +10,9 @@
 chandramoulibandaru02/chandramoulibandaru02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://leetcard.jacoblin.cool/chandramoulibandaru02?sheets=uirl1,url2)
-
+## 🚀 My Coding Streaks
+### 💡 LeetCode Streak
+[![LeetCode Stats](https://leetcard.jacoblin.cool/chandramoulibandaru02?theme=dark&ext=heatmap)](https://leetcode.com/chandramoulibandaru02/)
 
 
 
@@ -46,3 +47,4 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandramoulibandaru02&show_icons=true&locale=en" alt="chandramoulibandaru02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandramoulibandaru02&" alt="chandramoulibandaru02" /></p>
+
