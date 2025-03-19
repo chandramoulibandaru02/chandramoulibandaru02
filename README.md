@@ -20,11 +20,4 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle Badge" width="150">
 </a>
 
-### 🏆 Kaggle Achievements  
-<a href="https://www.kaggle.com/certification/badges/chandramoulibandaru/30">
-    <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle Badge" width="150">
-</a>
-### 🏆 Kaggle Achievements  
-<a href="https://www.kaggle.com/certification/badges/chandramoulibandaru/30">
-    <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle Badge" width="150">
-</a>
+
